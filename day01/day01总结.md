@@ -1,4 +1,6 @@
-#This is a Java Demo
+[TOC]
+
+
 
 ```java
 class Demo
@@ -11,3 +13,36 @@ class Demo
 ```
 
 ## That is an another Demo
+
+| Name | City | Addr  |
+| :--- | ---- | ----- |
+| Pan  | SH   | SH-HY |
+|      |      |       |
+|      |      |       |
+
+### 有序列表
+
+1. first
+2. second
+3. third
+
+
+
+- ofirst
+- osecond
+- othird
+
+- [ ] 烧饭
+- [ ] 洗衣服
+- [x] 打扫卫生
+
+[]: baidu.com	"百度"
+
+[^]: 我是脚注~
+
+------
+
+Test水平线
+
+[]: www.baidu.com	"百度2"
+
