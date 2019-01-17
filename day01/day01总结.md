@@ -36,13 +36,11 @@ class Demo
 - [ ] 洗衣服
 - [x] 打扫卫生
 
-[]: baidu.com	"百度"
-
 [^]: 我是脚注~
 
 ------
 
 Test水平线
 
-[]: www.baidu.com	"百度2"
+[百度]: www.baidu.com
 
